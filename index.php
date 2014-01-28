@@ -5,7 +5,8 @@
  */
 ?>
 
-This is index file
+This is index file (Bug fix on master)
 
 Tambah file ini
 
+link to other file
