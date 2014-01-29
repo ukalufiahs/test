@@ -5,14 +5,13 @@
  */
 ?>
 
-This is index file (Bug fix on master)
+<p>This is index file, update of index</p>
 
 Tambah file ini
 
+<h3>Update in branch stat</h3>
 
-link to other file
+<p>Siti nur farhan (update happen in stat-b1)</p>
 
-<h1>Update in branch stat</h1>
-
-<p>Siti nur farhan</p>
+In branch stat (stat-b2) will merge (stat-b1)
 
