@@ -9,7 +9,7 @@ This is index file
 
 Tambah file ini
 
-<h1>Update in branch stat</h1>
+<h3>Update in branch stat</h3>
 
 <p>Siti nur farhan (update happen in stat-b1)</p>
 
