@@ -15,4 +15,6 @@ Tambah file ini
 
 In branch stat (stat-b2) will merge (stat-b1)
 
-Modified index
+Modified index (Modified after staging) 
+
+change 
