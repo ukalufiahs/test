@@ -20,3 +20,5 @@ Modified index (Modified after staging)
 change 
 
 Final footnote
+
+this will combine with last commit
