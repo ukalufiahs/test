@@ -5,7 +5,7 @@
  */
 ?>
 
-This is index file
+<p>This is index file, update of index</p>
 
 Tambah file ini
 
