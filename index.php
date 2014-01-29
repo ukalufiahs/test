@@ -18,3 +18,5 @@ In branch stat (stat-b2) will merge (stat-b1)
 Modified index (Modified after staging) 
 
 change 
+
+Final footnote
