@@ -14,4 +14,4 @@ Tambah file ini
 <p>Siti nur farhan</p>
 
 
-In branch stat
+In branch stat (stat-b2) will merge (stat-b1)
